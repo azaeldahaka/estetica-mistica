@@ -1,0 +1,14 @@
+#sobre img {
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+  opacity: 0.8;
+}
+footer a {
+    text-decoration: none;
+    transition: 0.2s;
+}
+footer a:hover {
+    text-decoration: underline;
+    color: #ffc107;
+}
